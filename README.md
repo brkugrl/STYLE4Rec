@@ -1,4 +1,3 @@
-# STYLE4Rec
 # Style4Rec: Enhancing Transformer-based E-commerce Recommendation Systems
 
 This repository contains information about the paper titled **"Style4Rec: Enhancing Transformer-based E-commerce Recommendation Systems with Style and Shopping Cart Information."**
