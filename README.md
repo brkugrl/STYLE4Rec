@@ -12,7 +12,7 @@ Understanding users’ product preferences is essential to the efficacy of a rec
 1. **Novel Transformer-Based Model:** Developed a multi-layer transformer-based sequential recommendation system.
 2. **Style Embeddings:** Incorporated neural style transfer to extract style information from product images, enhancing recommendation performance.
    <img width="454" alt="image" src="https://github.com/user-attachments/assets/f156ce48-56ce-4ef5-a953-0407554cc0b3" />
-<img width="458" alt="image" src="https://github.com/user-attachments/assets/d9d6d3f7-e641-4d73-9b7b-b5ffcd673280" />
+   <img width="458" alt="image" src="https://github.com/user-attachments/assets/d9d6d3f7-e641-4d73-9b7b-b5ffcd673280" />
 Figure: Calculating the style loss
 
 
