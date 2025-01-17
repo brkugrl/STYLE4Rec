@@ -1,7 +1,7 @@
 # Style4Rec: Enhancing Transformer-based E-commerce Recommendation Systems
 
 This repository contains information about the paper titled **"Style4Rec: Enhancing Transformer-based E-commerce Recommendation Systems with Style and Shopping Cart Information."**
-Style4Rec is a collaboration with AviviD.ai, it utilizes AviviD.ai's dataset. The main goal is to improve the sequential product recommendation performance by using style information that is extracted via product images, for E-commerce websites. Since the e-product images look very similar within the same product group, we developed a system that extracts the style information from the lower levels of an object detection model. 
+Style4Rec is a collaboration with AviviD.ai, it utilizes AviviD.ai's dataset. The main goal is to improve the sequential product recommendation performance by using style information that is extracted via product images, for E-commerce websites. Since the e-product images look very similar within the same product group, we developed a system that extracts the style information from the initial layers of an object detection model. 
 
 ## Abstract
 
