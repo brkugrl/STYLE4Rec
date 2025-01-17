@@ -9,7 +9,7 @@ Understanding users’ product preferences is essential to the efficacy of a rec
 
 ## Key Contributions
 
-1. **Novel Transformer-Based Model:** Developed a multi-layer transformer-based sequential recommendation system.
+1. **Transformer-Based Model:** Developed a multi-layer transformer-based sequential recommendation system and customized it to utilize the Style Embeddings for the final product recommendation.
 2. **Style Embeddings:** Incorporated neural style transfer to extract style information from product images, enhancing recommendation performance.
 <p align="center">
       <img width="454" alt="image" src="https://github.com/user-attachments/assets/f156ce48-56ce-4ef5-a953-0407554cc0b3" />
@@ -22,8 +22,7 @@ Understanding users’ product preferences is essential to the efficacy of a rec
 </p>
  
 
-
-4. **Shopping Cart Data Utilization:** Differentiated between purchase and shopping cart sessions to reflect user interests more effectively.
+4. **Shopping Cart Data Utilization:** Differentiated between purchase and shopping cart sessions to reflect user interests more effectively, it allows us to incorporate user's historical behavior more accurately.
 5. **Performance Improvements:** Achieved notable gains over benchmarks like BERT4Rec and SASRec across multiple evaluation metrics.
 
 ## Methodology
