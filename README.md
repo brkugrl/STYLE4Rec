@@ -37,6 +37,8 @@ Understanding users’ product preferences is essential to the efficacy of a rec
 The proposed model, Style4Rec, achieved the following improvements over benchmarks:
 
 <img width="793" alt="image" src="https://github.com/user-attachments/assets/4b950cdb-22bd-4aad-a43a-4c18b9f06adc" />
+<img width="970" alt="image" src="https://github.com/user-attachments/assets/7cbd9bec-961b-48e7-bd98-9032267bcfe6" />
+
 
 These results demonstrate the effectiveness of incorporating style information and shopping cart data in transformer-based recommendation systems.
 
