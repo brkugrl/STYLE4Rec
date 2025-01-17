@@ -16,7 +16,6 @@ Understanding users’ product preferences is essential to the efficacy of a rec
 </p>
 <p align="center">
       <img width="458" alt="image" src="https://github.com/user-attachments/assets/d9d6d3f7-e641-4d73-9b7b-b5ffcd673280" />
-      Figure: Calculating the style loss
 </p>
  
 
