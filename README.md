@@ -23,6 +23,9 @@ Understanding users’ product preferences is essential to the efficacy of a rec
 
 The proposed model, Style4Rec, achieved the following improvements over benchmarks:
 
+<img width="793" alt="image" src="https://github.com/user-attachments/assets/4b950cdb-22bd-4aad-a43a-4c18b9f06adc" />
+
+
 | Metric      | BERT4Rec | SASRec | Style4Rec |
 |-------------|-----------|--------|-----------|
 | **HR@5**    | 0.677     | 0.681  | **0.735** |
@@ -55,8 +58,8 @@ If you find this work useful, please cite:
 
 For any questions or collaborations, please contact:
 - **Berke Ugurlu**  
-  Email: berke.ugurlu@example.com
+  Email: brkugrl96@gmail.com
 
 ---
 
-This repository is dedicated to sharing insights from the research paper. No source code is provided here.
+This repository is dedicated to sharing insights from the research paper. No source code is provided here due to the NDA signed between AviviD.ai and the Interdisciplinary Data Science & Signal Processing Lab of National Taiwan University.
